@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Tweet_Extraction.py
+web: sh setup.sh && streamlit run app.py
